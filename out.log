@@ -1,0 +1,40 @@
+2021-09-16 12:01:09 INFO  Ejercicio4:32 - Creando direcorio d1....
+2021-09-16 12:01:09 INFO  Ejercicio4:34 - Creando fichero f11.txt
+2021-09-16 12:01:09 ERROR Ejercicio4:42 - Ha habido un error
+java.io.IOException: No existe el archivo o el directorio
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1035)
+	at org.iesfm.ejercicio4.Ejercicio4.createTmpFile(Ejercicio4.java:20)
+	at org.iesfm.ejercicio4.Ejercicio4.main(Ejercicio4.java:35)
+2021-09-16 12:01:29 INFO  Ejercicio4:32 - Creando direcorio d1....
+2021-09-16 12:01:29 INFO  Ejercicio4:34 - Creando fichero f11.txt
+2021-09-16 12:01:29 ERROR Ejercicio4:42 - Ha habido un error
+java.io.IOException: No existe el archivo o el directorio
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1035)
+	at org.iesfm.ejercicio4.Ejercicio4.createTmpFile(Ejercicio4.java:20)
+	at org.iesfm.ejercicio4.Ejercicio4.main(Ejercicio4.java:35)
+2021-09-16 12:05:46 INFO  Ejercicio4:32 - Creando direcorio d1....
+2021-09-16 12:05:46 INFO  Ejercicio4:34 - Creando fichero f11.txt
+2021-09-16 12:05:46 ERROR Ejercicio4:42 - Ha habido un error
+java.io.IOException: No existe el archivo o el directorio
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1035)
+	at org.iesfm.ejercicio4.Ejercicio4.createTmpFile(Ejercicio4.java:20)
+	at org.iesfm.ejercicio4.Ejercicio4.main(Ejercicio4.java:35)
+2021-09-16 12:07:30 INFO  Ejercicio4:32 - Creando direcorio d1....
+2021-09-16 12:07:30 INFO  Ejercicio4:34 - Creando fichero f11.txt
+2021-09-16 12:07:30 ERROR Ejercicio4:42 - Ha habido un error
+java.io.IOException: No existe el archivo o el directorio
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1035)
+	at org.iesfm.ejercicio4.Ejercicio4.createTmpFile(Ejercicio4.java:20)
+	at org.iesfm.ejercicio4.Ejercicio4.main(Ejercicio4.java:35)
+2021-09-21 12:44:38 INFO  Ejercicio4:32 - Creando direcorio d1....
+2021-09-21 12:44:38 INFO  Ejercicio4:34 - Creando fichero f11.txt
+2021-09-21 12:44:38 ERROR Ejercicio4:42 - Ha habido un error
+java.io.IOException: No existe el archivo o el directorio
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1035)
+	at org.iesfm.ejercicio4.Ejercicio4.createTmpFile(Ejercicio4.java:20)
+	at org.iesfm.ejercicio4.Ejercicio4.main(Ejercicio4.java:35)
